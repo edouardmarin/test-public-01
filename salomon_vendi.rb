@@ -15,5 +15,8 @@ class SalomonVendi
     # some coments
   
     # some coments
+  
+    # Let's add a secret grasper to this file with secret
+    # gg-business-demo
 end
 
